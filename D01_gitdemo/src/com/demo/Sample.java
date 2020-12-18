@@ -12,4 +12,7 @@ public class Sample {
 	public void mul(int num1, int num2) {
 		System.out.println("mul="+(num1*num2));
 	}
+	public void divide(int num1, int num2) {
+		System.out.println("divide="+(num1/num2));
+	}
 }
